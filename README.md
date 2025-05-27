@@ -157,7 +157,3 @@ void loop() {
 
 ```
 
-You can copy this and save it as `esp32_gps_mqtt.md` or paste it into a markdown viewer/editor like Typora, Obsidian, or GitHub.
-
-Let me know if you want this in PDF, HTML, or formatted for a blog post.
-```
